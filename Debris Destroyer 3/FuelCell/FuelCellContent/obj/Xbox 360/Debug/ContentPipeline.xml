@@ -1,0 +1,462 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\cube10uR.x</Source>
+      <Name>Models\cube10uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\cube10uR.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\cube10uR_0.xml</Key>
+        <Value>2012-04-25T12:04:39.8853884+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierBlue_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\cylinder10uR.x</Source>
+      <Name>Models\cylinder10uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\cylinder10uR.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\cylinder10uR_0.xml</Key>
+        <Value>2012-04-25T12:04:40.0725887+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierPurple_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\fuelcarrier.x</Source>
+      <Name>Models\fuelcarrier</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.1</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\fuelcarrier.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\fuelcarrier_0.xml</Key>
+        <Value>2012-04-25T12:04:40.1817889+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\carriertextures_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\fuelcell.x</Source>
+      <Name>Models\fuelcell</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.03</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\fuelcell.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\fuelcell_0.xml</Key>
+        <Value>2012-04-25T12:04:40.3377892+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\fuelcell_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Name>Models\ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\ground.xnb</Output>
+      <Time>2011-02-02T12:45:28+00:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\ground_0.xml</Key>
+        <Value>2012-04-25T19:48:42.7954886+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\ground_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\pyramid10uR.x</Source>
+      <Name>Models\pyramid10uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.3</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\pyramid10uR.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\pyramid10uR_0.xml</Key>
+        <Value>2012-04-25T12:04:40.6029896+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierRed_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Name>Models\sphere1uR</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\sphere1uR.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\sphere1uR_0.xml</Key>
+        <Value>2012-04-25T12:04:40.7121898+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\White_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\bullet4.X</Source>
+      <Name>Models\bullet4</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Parameters>
+        <Data Key="Scale">0.05</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\bullet4.xnb</Output>
+      <Time>2012-04-24T15:24:48+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\bullet4_0.xml</Key>
+        <Value>2012-04-25T12:04:40.8681901+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Fonts\StatsFont.spritefont</Source>
+      <Name>Fonts\StatsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Fonts\StatsFont.xnb</Output>
+      <Time>2012-04-26T17:42:19.8647533+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crosshair.FBX</Source>
+      <Name>Models\crosshair</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\crosshair.xnb</Output>
+      <Time>2012-04-23T15:59:52+01:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Models\crosshair_0.xml</Key>
+        <Value>2012-04-25T12:04:41.0085903+01:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\cube10uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\cube10uR_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BarrierBlue.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierBlue_0.xnb</Output>
+      <Time>2012-04-25T22:20:57.4209706+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cylinder10uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\cylinder10uR_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BarrierPurple.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierPurple_0.xnb</Output>
+      <Time>2012-04-26T20:13:46.0465957+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fuelcarrier.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\fuelcarrier_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\carriertextures.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\carriertextures_0.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fuelcell.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\fuelcell_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\fuelcell.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\fuelcell_0.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\ground_0.xml</Output>
+      <Time>2011-02-02T12:45:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ground.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\ground_0.xnb</Output>
+      <Time>2012-04-25T20:47:56.9314516+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\pyramid10uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\pyramid10uR_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BarrierRed.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\BarrierRed_0.xnb</Output>
+      <Time>2012-04-26T19:17:48.5530391+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\sphere1uR.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\sphere1uR_0.xml</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\White.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Models\White_0.xnb</Output>
+      <Time>2010-08-26T21:57:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\bullet4.X</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\bullet4_0.xml</Output>
+      <Time>2012-04-24T15:24:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\crosshair.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Models\crosshair_0.xml</Output>
+      <Time>2012-04-23T15:59:52+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\healthbar.png</Source>
+      <Name>Images\healthbar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\healthbar.xnb</Output>
+      <Time>2012-04-26T02:14:31.5872694+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\healthbar2.png</Source>
+      <Name>Images\healthbar2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\healthbar2.xnb</Output>
+      <Time>2012-04-26T02:14:31.5882695+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laserSound.wav</Source>
+      <Name>Sounds\laserSound</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Sounds\laserSound.xnb</Output>
+      <Time>2012-04-27T00:13:29.3147548+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Controls.png</Source>
+      <Name>Images\Controls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\Controls.xnb</Output>
+      <Time>2012-04-27T00:55:45.1915966+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Instructions.png</Source>
+      <Name>Images\Instructions</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\Instructions.xnb</Output>
+      <Time>2012-04-27T00:55:45.2045973+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Startup.png</Source>
+      <Name>Images\Startup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\Startup.xnb</Output>
+      <Time>2012-04-27T00:55:45.2085975+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laserSound2.wav</Source>
+      <Name>Sounds\laserSound2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Sounds\laserSound2.xnb</Output>
+      <Time>2012-04-27T00:48:52.8164292+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\powerUp.wav</Source>
+      <Name>Sounds\powerUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Sounds\powerUp.xnb</Output>
+      <Time>2012-04-27T02:13:03.3089948+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Sounds\explosion.xnb</Output>
+      <Time>2012-04-27T02:39:19.5361499+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\crosshair.png</Source>
+      <Name>Images\crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\Images\crosshair.xnb</Output>
+      <Time>2012-04-27T03:55:09.1533731+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCellContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCellContent\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Chris\Desktop\FuelCell - Part 7_4_0\FuelCell\FuelCell\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-02-27T18:14:22.758511+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
